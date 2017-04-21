@@ -7,5 +7,6 @@ namespace K_Mug.Models
         public string CustomerName { get; set; }
         public string City { get; set; }
         public int Amount { get; set; }
+        public int CreatedDate { get; set; }
     }
 }
